@@ -1,0 +1,8 @@
+HOLT: Hello, what are your names?
+TRUMP: My name is Donald J. Trump.
+I am the candidate for the republican party.
+CLINTON: I am Hillary Clinton. I am
+the candidate for the democratic party.
+HOLT: What do you want to talk about today?
+TRUMP: I want to build a wall.
+CLINTON: Not email servers.
